@@ -41,6 +41,7 @@ target/
 /gradlew
 /gradlew.bat
 .todo
+settings.gradle
 *.properties
 
 # Project exclude paths
